@@ -1,0 +1,12 @@
+.icons li {
+  margin: 0px 6px;
+}
+
+.icons li svg {
+  transition: 0.4s all ease;
+  margin-top: 0px;
+}
+
+.icons li svg:hover {
+  margin-top: 10px;
+}
